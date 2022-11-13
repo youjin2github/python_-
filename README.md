@@ -6,6 +6,6 @@
 2. [데이터 가공하기]
     * [데이터 가공하기](https://github.com/youjin2github/python_-/blob/main/데이터가공하기.py)
 3. [데이터 정재하기]
-    * [데이터 가공하기](https://github.com/youjin2github/python_-/blob/main/데이터정재하기.py)
+    * [데이터 정재하기](https://github.com/youjin2github/python_-/blob/main/데이터정재하기.py)
 4. [실습]
-    * [데이터 가공하기](https://github.com/youjin2github/python_-/blob/main/데이터가공하기.py)
+    * [한국복지패널데이터](https://github.com/youjin2github/python_-/blob/main/데이터가공하기.py](https://github.com/youjin2github/python_-/blob/main/한국복지패널데이터.py))
